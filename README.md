@@ -12,3 +12,10 @@ The lab is designed to practice:
 - Port scanning
 - Vulnerability identification
 - Exploitation using Metasploit
+
+           Virtual Lab Network
+
+        Kali Linux (Attacker)
+                │
+                │
+        Metasploitable (Target)
